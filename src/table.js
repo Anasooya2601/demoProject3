@@ -43,7 +43,7 @@ const Table = ({ tableData, onDeleteRow }) => {
       <table className="table">
         <thead>
           <tr>
-            <th>Page No</th>
+            <th>Total Pages</th>
             <th>Date</th>
             <th>Title</th>
             <th>Abstract</th> {/* Add Abstract column */}
